@@ -5,4 +5,5 @@ Git tracks changes of files.
 Git push origin master.
 在dev分支上做修改。
 A在dev分支上修改。
+B做了修改
 A继续做了修改
